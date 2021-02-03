@@ -17,6 +17,10 @@ Everytime I can pull each branch to merge it with the `main` branch
 * and so on..
 
 
-More info on:
+# extra info
+
+https://guides.github.com/introduction/flow/
 
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+
+
