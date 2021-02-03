@@ -6,3 +6,4 @@ Each step is a branch. Check out to the step you want to test.
 $ git checkout <step-number>    # eg: git checkout step-1
 ```
 * [step-0](https://github.com/derobpe/steps-branches-test/commits/step-0) - Adding a first branch `step-0`.
+* [step-1](https://github.com/derobpe/steps-branches-test/commits/step-1) - Adding a new branch `step-1`.
