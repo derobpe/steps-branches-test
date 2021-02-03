@@ -14,7 +14,9 @@ $ git checkout <step-number>    # eg: git checkout step-1
 
 Everytime I can pull each branch to merge it with the `main` branch
 * [step-2](https://github.com/derobpe/steps-branches-test/commits/step-2) - Adding a new branch `step-2`, from the old `step-1` branch.
+* and so on..
 
-more info on:
+
+More info on:
 
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
