@@ -17,7 +17,7 @@ Everytime I can pull each branch to merge it with the `main` branch
 * and so on..
 
 
-# extra info
+## extra info
 
 https://guides.github.com/introduction/flow/
 
