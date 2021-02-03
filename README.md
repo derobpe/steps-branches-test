@@ -1,4 +1,8 @@
 # steps-branches-test
+For future tutorials, I am going to be separating each step in a new branch, making it easy to follow.
+
+The appearance of the readme would be something similar to the following:
+
 ## steps
 Each step is a branch. Check out to the step you want to test.
 
